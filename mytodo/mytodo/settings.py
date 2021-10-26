@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-oc^47v_4t&xrhk3qob4tvq9##!1g$ehap3#5z=yt*=k6$sv3hq
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'localhost'
+    'localhost',
+    'mytodophyton.herokuapp.com'
 ]
 
 
